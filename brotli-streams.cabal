@@ -69,7 +69,6 @@ test-suite lzma-streams-test
                        brotli-streams,
 
                        HUnit == 1.6.*,
-                       QuickCheck >= 2.14 && < 3,
                        test-framework == 0.8.*,
                        test-framework-hunit == 0.3.*,
                        test-framework-quickcheck2 == 0.3.*
